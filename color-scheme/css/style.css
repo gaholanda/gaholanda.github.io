@@ -1,0 +1,100 @@
+:root{
+  --light-mode-header: "Modo Claro";
+  --light-mode-background: #FFFFFF;
+  --light-mode-color: #222222;
+  --light-mode-box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
+  --dark-mode-header: "Modo Escuro";
+  --dark-mode-background: #222222;
+  --dark-mode-color: #FFFFFF;
+  --dark-mode-box-shadow: 0px 2px 1px -1px rgba(255, 255, 255, 0.2), 0px 1px 1px 0px rgba(255, 255, 255, 0.14), 0px 1px 3px 0px rgba(255,255,255,.12);
+}
+
+/* dark mode */
+@media (prefers-color-scheme: dark){
+  body {
+    background: var(--dark-mode-background);
+    color: var(--dark-mode-color);
+  }
+
+  header h1:before{
+    content: var(--dark-mode-header);
+  }
+
+  .btn{
+    box-shadow: var(--dark-mode-box-shadow);
+  }
+
+}
+
+/* light mode */
+@media (prefers-color-scheme: light){
+
+  body {
+    background: var(--light-mode-background);
+    color: var(--light-mode-color);
+  }
+
+  header h1:before{
+    content: var(--light-mode-header);
+  }
+
+  .btn{
+    box-shadow: var(--light-mode-box-shadow);
+  }
+
+}
+
+
+/* default style */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: inherit;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  height: 100vh;
+}
+
+header{
+  padding: 20px 0;
+}
+
+header h1{
+  font-size: 18px;
+  text-align: center;
+}
+
+.content{
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn{
+  content: "\f186";
+  font-size: 40px;
+  width: 80px;
+  height: 80px;
+  border: none;
+  border-radius: 80px;
+  background-color: inherit;
+  color: inherit;
+}
+
+.btn:focus{
+  outline: none;
+}
