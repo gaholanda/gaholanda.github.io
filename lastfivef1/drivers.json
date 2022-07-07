@@ -1,0 +1,102 @@
+{
+  "alonso": {
+    "name": "Fernando Alonso",
+    "team": "alpine",
+    "number": 14
+  },
+  "ocon": {
+    "name": "Esteban Ocon",
+    "team": "alpine",
+    "number": 31
+  },
+  "gasly": {
+    "name": "Pierre Gasly",
+    "team": "alphatauri",
+    "number": 10
+  },
+  "tsunoda": {
+    "name": "Yuki Tsunoda",
+    "team": "alphatauri",
+    "number": 22
+  },
+  "vettel": {
+    "name": "Sebastian Vettel",
+    "team": "astonmartin",
+    "number": 5
+  },
+  "stroll": {
+    "name": "Lance Stroll",
+    "team": "astonmartin",
+    "number": 18
+  },
+  "bottas": {
+    "name": "Valtteri Bottas",
+    "team": "alfaromeo",
+    "number": 77
+  },
+  "zhou": {
+    "name": "Guanyou Zhou",
+    "team": "alfaromeo",
+    "number": 24
+  },
+  "leclerc": {
+    "name": "Charles Leclerc",
+    "team": "ferrari",
+    "number": 16
+  },
+  "sainz": {
+    "name": "Carlos Sainz",
+    "team": "ferrari",
+    "number": 55
+  },
+  "magnussen": {
+    "name": "Kevin Magnussen",
+    "team": "haas",
+    "number": 20
+  },
+  "schumacher": {
+    "name": "Mick Schumacher",
+    "team": "haas",
+    "number": 47
+  },
+  "norris": {
+    "name": "Lando Norris",
+    "team": "mclaren",
+    "number": 4
+  },
+  "ricciardo": {
+    "name": "Daniel Ricciardo",
+    "team": "mclaren",
+    "number": 3
+  },
+  "hamilton": {
+    "name": "Lewis Hamilton",
+    "team": "mercedes",
+    "number": 44
+  },
+  "russell": {
+    "name": "George Russell",
+    "team": "mercedes",
+    "number": 63
+  },
+  "verstappen": {
+    "name": "Max Verstappen",
+    "team": "redbull",
+    "number": 1
+  },
+  "perez": {
+    "name": "Sergio Perez",
+    "team": "redbull",
+    "number": 11
+  },
+  "albon": {
+    "name": "Alexander Albon",
+    "team": "williams",
+    "number": 23
+  },
+  "latifi": {
+    "name": "Nicholas Latifi",
+    "team": "williams",
+    "number": 6
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "drivers": [
+    {
+      "driverId": "verstappen",
+      "points": 181,
+      "wins": 6
+    },
+    {
+      "driverId": "perez",
+      "points": 147,
+      "wins": 1
+    },
+    {
+      "driverId": "leclerc",
+      "points": 138,
+      "wins": 2
+    },
+    {
+      "driverId": "sainz",
+      "points": 127,
+      "wins": 1
+    },
+    {
+      "driverId": "russell",
+      "points": 111,
+      "wins": 0
+    },
+    {
+      "driverId": "hamilton",
+      "points": 93,
+      "wins": 0
+    },
+    {
+      "driverId": "norris",
+      "points": 58,
+      "wins": 0
+    },
+    {
+      "driverId": "bottas",
+      "points": 46,
+      "wins": 0
+    },
+    {
+      "driverId": "ocon",
+      "points": 39,
+      "wins": 0
+    },
+    {
+      "driverId": "alonso",
+      "points": 38,
+      "wins": 0
+    },
+    {
+      "driverId": "gasly",
+      "points": 16,
+      "wins": 0
+    },
+    {
+      "driverId": "magnussen",
+      "points": 16,
+      "wins": 0
+    },
+    {
+      "driverId": "vettel",
+      "points": 15,
+      "wins": 0
+    },
+    {
+      "driverId": "ricciardo",
+      "points": 15,
+      "wins": 0
+    },
+    {
+      "driverId": "tsunoda",
+      "points": 11,
+      "wins": 0
+    },
+    {
+      "driverId": "zhou",
+      "points": 5,
+      "wins": 0
+    },
+    {
+      "driverId": "albon",
+      "points": 3,
+      "wins": 0
+    },
+    {
+      "driverId": "stroll",
+      "points": 3,
+      "wins": 0
+    },
+    {
+      "driverId": "latifi",
+      "points": 0,
+      "wins": 0
+    }
+  ],
+  "constructors": [
+    {
+      "constructorId": "redbull",
+      "points": 328,
+      "wins": 7
+    },
+    {
+      "constructorId": "ferrari",
+      "points": 265,
+      "wins": 3
+    },
+    {
+      "constructorId": "mercedes",
+      "points": 204,
+      "wins": 0
+    },
+    {
+      "constructorId": "mclaren",
+      "points": 73,
+      "wins": 0
+    },
+    {
+      "constructorId": "alpine",
+      "points": 67,
+      "wins": 0
+    },
+    {
+      "constructorId": "alfaromeo",
+      "points": 51,
+      "wins": 0
+    },
+    {
+      "constructorId": "alphatauri",
+      "points": 27,
+      "wins": 0
+    },
+    {
+      "constructorId": "haas",
+      "points": 20,
+      "wins": 0
+    },
+    {
+      "constructorId": "astonmartin",
+      "points": 18,
+      "wins": 0
+    },
+    {
+      "constructorId": "williams",
+      "points": 3,
+      "wins": 0
+    }
+  ]
+}
