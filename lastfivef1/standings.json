@@ -1,149 +1,149 @@
 {
   "drivers": [
     {
-      "driverId": "verstappen",
+      "driver_id": "verstappen",
       "points": 181,
       "wins": 6
     },
     {
-      "driverId": "perez",
+      "driver_id": "perez",
       "points": 147,
       "wins": 1
     },
     {
-      "driverId": "leclerc",
+      "driver_id": "leclerc",
       "points": 138,
       "wins": 2
     },
     {
-      "driverId": "sainz",
+      "driver_id": "sainz",
       "points": 127,
       "wins": 1
     },
     {
-      "driverId": "russell",
+      "driver_id": "russell",
       "points": 111,
       "wins": 0
     },
     {
-      "driverId": "hamilton",
+      "driver_id": "hamilton",
       "points": 93,
       "wins": 0
     },
     {
-      "driverId": "norris",
+      "driver_id": "norris",
       "points": 58,
       "wins": 0
     },
     {
-      "driverId": "bottas",
+      "driver_id": "bottas",
       "points": 46,
       "wins": 0
     },
     {
-      "driverId": "ocon",
+      "driver_id": "ocon",
       "points": 39,
       "wins": 0
     },
     {
-      "driverId": "alonso",
+      "driver_id": "alonso",
       "points": 38,
       "wins": 0
     },
     {
-      "driverId": "gasly",
+      "driver_id": "gasly",
       "points": 16,
       "wins": 0
     },
     {
-      "driverId": "magnussen",
+      "driver_id": "magnussen",
       "points": 16,
       "wins": 0
     },
     {
-      "driverId": "vettel",
+      "driver_id": "vettel",
       "points": 15,
       "wins": 0
     },
     {
-      "driverId": "ricciardo",
+      "driver_id": "ricciardo",
       "points": 15,
       "wins": 0
     },
     {
-      "driverId": "tsunoda",
+      "driver_id": "tsunoda",
       "points": 11,
       "wins": 0
     },
     {
-      "driverId": "zhou",
+      "driver_id": "zhou",
       "points": 5,
       "wins": 0
     },
     {
-      "driverId": "albon",
+      "driver_id": "albon",
       "points": 3,
       "wins": 0
     },
     {
-      "driverId": "stroll",
+      "driver_id": "stroll",
       "points": 3,
       "wins": 0
     },
     {
-      "driverId": "latifi",
+      "driver_id": "latifi",
       "points": 0,
       "wins": 0
     }
   ],
   "teams": [
     {
-      "teamId": "redbull",
+      "team_id": "redbull",
       "points": 328,
       "wins": 7
     },
     {
-      "teamId": "ferrari",
+      "team_id": "ferrari",
       "points": 265,
       "wins": 3
     },
     {
-      "teamId": "mercedes",
+      "team_id": "mercedes",
       "points": 204,
       "wins": 0
     },
     {
-      "teamId": "mclaren",
+      "team_id": "mclaren",
       "points": 73,
       "wins": 0
     },
     {
-      "teamId": "alpine",
+      "team_id": "alpine",
       "points": 67,
       "wins": 0
     },
     {
-      "teamId": "alfaromeo",
+      "team_id": "alfaromeo",
       "points": 51,
       "wins": 0
     },
     {
-      "teamId": "alphatauri",
+      "team_id": "alphatauri",
       "points": 27,
       "wins": 0
     },
     {
-      "teamId": "haas",
+      "team_id": "haas",
       "points": 20,
       "wins": 0
     },
     {
-      "teamId": "astonmartin",
+      "team_id": "astonmartin",
       "points": 18,
       "wins": 0
     },
     {
-      "teamId": "williams",
+      "team_id": "williams",
       "points": 3,
       "wins": 0
     }

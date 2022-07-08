@@ -1,452 +1,612 @@
-{
-  "verstappen": {
-    "GBR": {
-      "position": 7,
-      "points": 6
-    },
-    "CAN": {
-      "position": 1,
-      "points": 25,
-      "pole": true
-    },
-    "AZE": {
-      "position": 1,
-      "points": 25
-    },
-    "MON": {
-      "position": 3,
-      "points": 15
-    },
-    "ESP": {
-      "position": 1,
-      "points": 25
-    }
+[
+  {
+    "driver_id": "verstappen",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 7,
+        "points": 6
+      },
+      {
+        "race_id": "CAN",
+        "position": 1,
+        "points": 25,
+        "pole": true
+      },
+      {
+        "race_id": "AZE",
+        "position": 1,
+        "points": 25
+      },
+      {
+        "race_id": "MON",
+        "position": 3,
+        "points": 15
+      },
+      {
+        "race_id": "ESP",
+        "position": 1,
+        "points": 25
+      }
+    ]
   },
-  "perez": {
-    "GBR": {
-      "position": 2,
-      "points": 18
-    },
-    "CAN": {
-      "position": 0,
-      "points": 0
-    },
-    "AZE": {
-      "position": 2,
-      "points": 18,
-      "fastest_lap": true
-    },
-    "MON": {
-      "position": 1,
-      "points": 25
-    },
-    "ESP": {
-      "position": 2,
-      "points": 18,
-      "fastest_lap": true
-    }
+  {
+    "driver_id": "perez",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 2,
+        "points": 18
+      },
+      {
+        "race_id": "CAN",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 2,
+        "points": 18,
+        "fastest_lap": true
+      },
+      {
+        "race_id": "MON",
+        "position": 1,
+        "points": 25
+      },
+      {
+        "race_id": "ESP",
+        "position": 2,
+        "points": 18,
+        "fastest_lap": true
+      }
+    ]
   },
-  "leclerc": {
-    "GBR": {
-      "position": 4,
-      "points": 12
-    },
-    "CAN": {
-      "position": 5,
-      "points": 10
-    },
-    "AZE": {
-      "position": 0,
-      "points": 0,
-      "pole": true
-    },
-    "MON": {
-      "position": 4,
-      "points": 12,
-      "pole": true
-    },
-    "ESP": {
-      "position": 0,
-      "points": 0,
-      "pole": true
-    }
+  {
+    "driver_id": "leclerc",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 4,
+        "points": 12
+      },
+      {
+        "race_id": "CAN",
+        "position": 5,
+        "points": 10
+      },
+      {
+        "race_id": "AZE",
+        "position": 0,
+        "points": 0,
+        "pole": true
+      },
+      {
+        "race_id": "MON",
+        "position": 4,
+        "points": 12,
+        "pole": true
+      },
+      {
+        "race_id": "ESP",
+        "position": 0,
+        "points": 0,
+        "pole": true
+      }
+    ]
   },
-  "sainz": {
-    "GBR": {
-      "position": 1,
-      "points": 25,
-      "pole": true
-    },
-    "CAN": {
-      "position": 2,
-      "points": 18,
-      "fastest_lap": true
-    },
-    "AZE": {
-      "position": 0,
-      "points": 0
-    },
-    "MON": {
-      "position": 2,
-      "points": 18
-    },
-    "ESP": {
-      "position": 4,
-      "points": 12
-    }
+  {
+    "driver_id": "sainz",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 1,
+        "points": 25,
+        "pole": true
+      },
+      {
+        "race_id": "CAN",
+        "position": 2,
+        "points": 18,
+        "fastest_lap": true
+      },
+      {
+        "race_id": "AZE",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 2,
+        "points": 18
+      },
+      {
+        "race_id": "ESP",
+        "position": 4,
+        "points": 12
+      }
+    ]
   },
-  "russell": {
-    "GBR": {
-      "position": 0,
-      "points": 0
-    },
-    "CAN": {
-      "position": 4,
-      "points": 12
-    },
-    "AZE": {
-      "position": 3,
-      "points": 15
-    },
-    "MON": {
-      "position": 5,
-      "points": 10
-    },
-    "ESP": {
-      "position": 3,
-      "points": 15
-    }
+  {
+    "driver_id": "russell",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 4,
+        "points": 12
+      },
+      {
+        "race_id": "AZE",
+        "position": 3,
+        "points": 15
+      },
+      {
+        "race_id": "MON",
+        "position": 5,
+        "points": 10
+      },
+      {
+        "race_id": "ESP",
+        "position": 3,
+        "points": 15
+      }
+    ]
   },
-  "hamilton": {
-    "GBR": {
-      "position": 3,
-      "points": 15,
-      "fastest_lap": true
-    },
-    "CAN": {
-      "position": 3,
-      "points": 15
-    },
-    "AZE": {
-      "position": 4,
-      "points": 12
-    },
-    "MON": {
-      "position": 8,
-      "points": 4
-    },
-    "ESP": {
-      "position": 5,
-      "points": 10
-    }
+  {
+    "driver_id": "hamilton",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 3,
+        "points": 15,
+        "fastest_lap": true
+      },
+      {
+        "race_id": "CAN",
+        "position": 3,
+        "points": 15
+      },
+      {
+        "race_id": "AZE",
+        "position": 4,
+        "points": 12
+      },
+      {
+        "race_id": "MON",
+        "position": 8,
+        "points": 4
+      },
+      {
+        "race_id": "ESP",
+        "position": 5,
+        "points": 10
+      }
+    ]
   },
-  "norris": {
-    "GBR": {
-      "position": 6,
-      "points": 8
-    },
-    "CAN": {
-      "position": 15,
-      "points": 0
-    },
-    "AZE": {
-      "position": 9,
-      "points": 2
-    },
-    "MON": {
-      "position": 6,
-      "points": 8,
-      "fastest_lap": true
-    },
-    "ESP": {
-      "position": 8,
-      "points": 4
-    }
+  {
+    "driver_id": "norris",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 6,
+        "points": 8
+      },
+      {
+        "race_id": "CAN",
+        "position": 15,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 9,
+        "points": 2
+      },
+      {
+        "race_id": "MON",
+        "position": 6,
+        "points": 8,
+        "fastest_lap": true
+      },
+      {
+        "race_id": "ESP",
+        "position": 8,
+        "points": 4
+      }
+    ]
   },
-  "bottas": {
-    "GBR": {
-      "position": 0,
-      "points": 0
-    },
-    "CAN": {
-      "position": 7,
-      "points": 6
-    },
-    "AZE": {
-      "position": 11,
-      "points": 0
-    },
-    "MON": {
-      "position": 9,
-      "points": 2
-    },
-    "ESP": {
-      "position": 6,
-      "points": 8
-    }
+  {
+    "driver_id": "bottas",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 7,
+        "points": 6
+      },
+      {
+        "race_id": "AZE",
+        "position": 11,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 9,
+        "points": 2
+      },
+      {
+        "race_id": "ESP",
+        "position": 6,
+        "points": 8
+      }
+    ]
   },
-  "ocon": {
-    "GBR": {
-      "position": 0,
-      "points": 0
-    },
-    "CAN": {
-      "position": 6,
-      "points": 8
-    },
-    "AZE": {
-      "position": 10,
-      "points": 1
-    },
-    "MON": {
-      "position": 12,
-      "points": 0
-    },
-    "ESP": {
-      "position": 7,
-      "points": 6
-    }
+  {
+    "driver_id": "ocon",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 6,
+        "points": 8
+      },
+      {
+        "race_id": "AZE",
+        "position": 10,
+        "points": 1
+      },
+      {
+        "race_id": "MON",
+        "position": 12,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 7,
+        "points": 6
+      }
+    ]
   },
-  "alonso": {
-    "GBR": {
-      "position": 5,
-      "points": 10
-    },
-    "CAN": {
-      "position": 9,
-      "points": 2
-    },
-    "AZE": {
-      "position": 7,
-      "points": 6
-    },
-    "MON": {
-      "position": 7,
-      "points": 6
-    },
-    "ESP": {
-      "position": 9,
-      "points": 2
-    }
+  {
+    "driver_id": "alonso",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 5,
+        "points": 10
+      },
+      {
+        "race_id": "CAN",
+        "position": 9,
+        "points": 2
+      },
+      {
+        "race_id": "AZE",
+        "position": 7,
+        "points": 6
+      },
+      {
+        "race_id": "MON",
+        "position": 7,
+        "points": 6
+      },
+      {
+        "race_id": "ESP",
+        "position": 9,
+        "points": 2
+      }
+    ]
   },
-  "gasly": {
-    "GBR": {
-      "position": 0,
-      "points": 0
-    },
-    "CAN": {
-      "position": 14,
-      "points": 0
-    },
-    "AZE": {
-      "position": 5,
-      "points": 10
-    },
-    "MON": {
-      "position": 11,
-      "points": 0
-    },
-    "ESP": {
-      "position": 13,
-      "points": 0
-    }
+  {
+    "driver_id": "gasly",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 14,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 5,
+        "points": 10
+      },
+      {
+        "race_id": "MON",
+        "position": 11,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 13,
+        "points": 0
+      }
+    ]
   },
-  "magnussen": {
-    "GBR": {
-      "position": 10,
-      "points": 1
-    },
-    "CAN": {
-      "position": 17,
-      "points": 0
-    },
-    "AZE": {
-      "position": 0,
-      "points": 0
-    },
-    "MON": {
-      "position": 0,
-      "points": 0
-    },
-    "ESP": {
-      "position": 17,
-      "points": 0
-    }
+  {
+    "driver_id": "magnussen",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 10,
+        "points": 1
+      },
+      {
+        "race_id": "CAN",
+        "position": 17,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 17,
+        "points": 0
+      }
+    ]
   },
-  "vettel": {
-    "GBR": {
-      "position": 9,
-      "points": 2
-    },
-    "CAN": {
-      "position": 12,
-      "points": 0
-    },
-    "AZE": {
-      "position": 6,
-      "points": 7
-    },
-    "MON": {
-      "position": 10,
-      "points": 1
-    },
-    "ESP": {
-      "position": 11,
-      "points": 0
-    }
+  {
+    "driver_id": "vettel",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 9,
+        "points": 2
+      },
+      {
+        "race_id": "CAN",
+        "position": 12,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 6,
+        "points": 7
+      },
+      {
+        "race_id": "MON",
+        "position": 10,
+        "points": 1
+      },
+      {
+        "race_id": "ESP",
+        "position": 11,
+        "points": 0
+      }
+    ]
   },
-  "ricciardo": {
-    "GBR": {
-      "position": 13,
-      "points": 0
-    },
-    "CAN": {
-      "position": 11,
-      "points": 0
-    },
-    "AZE": {
-      "position": 8,
-      "points": 0
-    },
-    "MON": {
-      "position": 13,
-      "points": 0
-    },
-    "ESP": {
-      "position": 12,
-      "points": 0
-    }
+  {
+    "driver_id": "ricciardo",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 13,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 11,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 8,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 13,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 12,
+        "points": 0
+      }
+    ]
   },
-  "tsunoda": {
-    "GBR": {
-      "position": 14,
-      "points": 0
-    },
-    "CAN": {
-      "position": 0,
-      "points": 0
-    },
-    "AZE": {
-      "position": 13,
-      "points": 0
-    },
-    "MON": {
-      "position": 17,
-      "points": 0
-    },
-    "ESP": {
-      "position": 10,
-      "points": 1
-    }
+  {
+    "driver_id": "tsunoda",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 14,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 13,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 17,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 10,
+        "points": 1
+      }
+    ]
   },
-  "zhou": {
-    "GBR": {
-      "position": 0,
-      "points": 0
-    },
-    "CAN": {
-      "position": 8,
-      "points": 0
-    },
-    "AZE": {
-      "position": 0,
-      "points": 0
-    },
-    "MON": {
-      "position": 16,
-      "points": 0
-    },
-    "ESP": {
-      "position": 0,
-      "points": 0
-    }
+  {
+    "driver_id": "zhou",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 8,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 16,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 0,
+        "points": 0
+      }
+    ]
   },
-  "schumacher": {
-    "GBR": {
-      "position": 8,
-      "points": 4
-    },
-    "CAN": {
-      "position": 0,
-      "points": 0
-    },
-    "AZE": {
-      "position": 14,
-      "points": 0
-    },
-    "MON": {
-      "position": 0,
-      "points": 0
-    },
-    "ESP": {
-      "position": 14,
-      "points": 0
-    }
+  {
+    "driver_id": "schumacher",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 8,
+        "points": 4
+      },
+      {
+        "race_id": "CAN",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 14,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 14,
+        "points": 0
+      }
+    ]
   },
-  "albon": {
-    "GBR": {
-      "position": 0,
-      "points": 0
-    },
-    "CAN": {
-      "position": 13,
-      "points": 0
-    },
-    "AZE": {
-      "position": 12,
-      "points": 0
-    },
-    "MON": {
-      "position": 0,
-      "points": 0
-    },
-    "ESP": {
-      "position": 18,
-      "points": 0
-    }
+  {
+    "driver_id": "albon",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 13,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 12,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 0,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 18,
+        "points": 0
+      }
+    ]
   },
-  "stroll": {
-    "GBR": {
-      "position": 11,
-      "points": 0
-    },
-    "CAN": {
-      "position": 10,
-      "points": 1
-    },
-    "AZE": {
-      "position": 16,
-      "points": 0
-    },
-    "MON": {
-      "position": 14,
-      "points": 0
-    },
-    "ESP": {
-      "position": 15,
-      "points": 0
-    }
+  {
+    "driver_id": "stroll",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 11,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 10,
+        "points": 1
+      },
+      {
+        "race_id": "AZE",
+        "position": 16,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 14,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 15,
+        "points": 0
+      }
+    ]
   },
-  "latifi": {
-    "GBR": {
-      "position": 12,
-      "points": 0
-    },
-    "CAN": {
-      "position": 16,
-      "points": 0
-    },
-    "AZE": {
-      "position": 15,
-      "points": 0
-    },
-    "MON": {
-      "position": 15,
-      "points": 0
-    },
-    "ESP": {
-      "position": 16,
-      "points": 0
-    }
+  {
+    "driver_id": "latifi",
+    "race_results": [
+      {
+        "race_id": "GBR",
+        "position": 12,
+        "points": 0
+      },
+      {
+        "race_id": "CAN",
+        "position": 16,
+        "points": 0
+      },
+      {
+        "race_id": "AZE",
+        "position": 15,
+        "points": 0
+      },
+      {
+        "race_id": "MON",
+        "position": 15,
+        "points": 0
+      },
+      {
+        "race_id": "ESP",
+        "position": 16,
+        "points": 0
+      }
+    ]
   }
-}
+]
