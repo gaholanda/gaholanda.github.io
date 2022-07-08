@@ -1,35 +1,5 @@
 [
   {
-    "driver_id": "alonso",
-    "races_results": [
-      {
-        "race_id": "GBR",
-        "position": 5,
-        "points": 10
-      },
-      {
-        "race_id": "CAN",
-        "position": 9,
-        "points": 2
-      },
-      {
-        "race_id": "AZE",
-        "position": 7,
-        "points": 6
-      },
-      {
-        "race_id": "MON",
-        "position": 7,
-        "points": 6
-      },
-      {
-        "race_id": "ESP",
-        "position": 9,
-        "points": 2
-      }
-    ]
-  },
-  {
     "driver_id": "albon",
     "races_results": [
       {
@@ -56,6 +26,36 @@
         "race_id": "ESP",
         "position": 18,
         "points": 0
+      }
+    ]
+  },
+  {
+    "driver_id": "alonso",
+    "races_results": [
+      {
+        "race_id": "GBR",
+        "position": 5,
+        "points": 10
+      },
+      {
+        "race_id": "CAN",
+        "position": 9,
+        "points": 2
+      },
+      {
+        "race_id": "AZE",
+        "position": 7,
+        "points": 6
+      },
+      {
+        "race_id": "MON",
+        "position": 7,
+        "points": 6
+      },
+      {
+        "race_id": "ESP",
+        "position": 9,
+        "points": 2
       }
     ]
   },
