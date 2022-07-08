@@ -1,102 +1,102 @@
 {
   "alonso": {
     "name": "Fernando Alonso",
-    "team": "alpine",
+    "team_id": "alpine",
     "number": 14
   },
   "ocon": {
     "name": "Esteban Ocon",
-    "team": "alpine",
+    "team_id": "alpine",
     "number": 31
   },
   "gasly": {
     "name": "Pierre Gasly",
-    "team": "alphatauri",
+    "team_id": "alphatauri",
     "number": 10
   },
   "tsunoda": {
     "name": "Yuki Tsunoda",
-    "team": "alphatauri",
+    "team_id": "alphatauri",
     "number": 22
   },
   "vettel": {
     "name": "Sebastian Vettel",
-    "team": "astonmartin",
+    "team_id": "astonmartin",
     "number": 5
   },
   "stroll": {
     "name": "Lance Stroll",
-    "team": "astonmartin",
+    "team_id": "astonmartin",
     "number": 18
   },
   "bottas": {
     "name": "Valtteri Bottas",
-    "team": "alfaromeo",
+    "team_id": "alfaromeo",
     "number": 77
   },
   "zhou": {
     "name": "Guanyou Zhou",
-    "team": "alfaromeo",
+    "team_id": "alfaromeo",
     "number": 24
   },
   "leclerc": {
     "name": "Charles Leclerc",
-    "team": "ferrari",
+    "team_id": "ferrari",
     "number": 16
   },
   "sainz": {
     "name": "Carlos Sainz",
-    "team": "ferrari",
+    "team_id": "ferrari",
     "number": 55
   },
   "magnussen": {
     "name": "Kevin Magnussen",
-    "team": "haas",
+    "team_id": "haas",
     "number": 20
   },
   "schumacher": {
     "name": "Mick Schumacher",
-    "team": "haas",
+    "team_id": "haas",
     "number": 47
   },
   "norris": {
     "name": "Lando Norris",
-    "team": "mclaren",
+    "team_id": "mclaren",
     "number": 4
   },
   "ricciardo": {
     "name": "Daniel Ricciardo",
-    "team": "mclaren",
+    "team_id": "mclaren",
     "number": 3
   },
   "hamilton": {
     "name": "Lewis Hamilton",
-    "team": "mercedes",
+    "team_id": "mercedes",
     "number": 44
   },
   "russell": {
     "name": "George Russell",
-    "team": "mercedes",
+    "team_id": "mercedes",
     "number": 63
   },
   "verstappen": {
     "name": "Max Verstappen",
-    "team": "redbull",
+    "team_id": "redbull",
     "number": 1
   },
   "perez": {
     "name": "Sergio Perez",
-    "team": "redbull",
+    "team_id": "redbull",
     "number": 11
   },
   "albon": {
     "name": "Alexander Albon",
-    "team": "williams",
+    "team_id": "williams",
     "number": 23
   },
   "latifi": {
     "name": "Nicholas Latifi",
-    "team": "williams",
+    "team_id": "williams",
     "number": 6
   }
 }
