@@ -96,54 +96,54 @@
       "wins": 0
     }
   ],
-  "constructors": [
+  "teams": [
     {
-      "constructorId": "redbull",
+      "teamId": "redbull",
       "points": 328,
       "wins": 7
     },
     {
-      "constructorId": "ferrari",
+      "teamId": "ferrari",
       "points": 265,
       "wins": 3
     },
     {
-      "constructorId": "mercedes",
+      "teamId": "mercedes",
       "points": 204,
       "wins": 0
     },
     {
-      "constructorId": "mclaren",
+      "teamId": "mclaren",
       "points": 73,
       "wins": 0
     },
     {
-      "constructorId": "alpine",
+      "teamId": "alpine",
       "points": 67,
       "wins": 0
     },
     {
-      "constructorId": "alfaromeo",
+      "teamId": "alfaromeo",
       "points": 51,
       "wins": 0
     },
     {
-      "constructorId": "alphatauri",
+      "teamId": "alphatauri",
       "points": 27,
       "wins": 0
     },
     {
-      "constructorId": "haas",
+      "teamId": "haas",
       "points": 20,
       "wins": 0
     },
     {
-      "constructorId": "astonmartin",
+      "teamId": "astonmartin",
       "points": 18,
       "wins": 0
     },
     {
-      "constructorId": "williams",
+      "teamId": "williams",
       "points": 3,
       "wins": 0
     }
