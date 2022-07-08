@@ -1,6 +1,7 @@
 [
   {
     "driver_id": "albon",
+    "total_points": 0,
     "races_results": [
       {
         "race_id": "GBR",
@@ -31,6 +32,7 @@
   },
   {
     "driver_id": "alonso",
+    "total_points": 24,
     "races_results": [
       {
         "race_id": "GBR",
@@ -61,6 +63,7 @@
   },
   {
     "driver_id": "bottas",
+    "total_points": 16,
     "races_results": [
       {
         "race_id": "GBR",
@@ -91,6 +94,7 @@
   },
   {
     "driver_id": "gasly",
+    "total_points": 10,
     "races_results": [
       {
         "race_id": "GBR",
@@ -121,6 +125,7 @@
   },
   {
     "driver_id": "hamilton",
+    "total_points": 57,
     "races_results": [
       {
         "race_id": "GBR",
@@ -152,6 +157,7 @@
   },
   {
     "driver_id": "latifi",
+    "total_points": 0,
     "races_results": [
       {
         "race_id": "GBR",
@@ -182,6 +188,7 @@
   },
   {
     "driver_id": "leclerc",
+    "total_points": 34,
     "races_results": [
       {
         "race_id": "GBR",
@@ -215,6 +222,7 @@
   },
   {
     "driver_id": "magnussen",
+    "total_points": 1,
     "races_results": [
       {
         "race_id": "GBR",
@@ -245,6 +253,7 @@
   },
   {
     "driver_id": "norris",
+    "total_points": 23,
     "races_results": [
       {
         "race_id": "GBR",
@@ -276,6 +285,7 @@
   },
   {
     "driver_id": "ocon",
+    "total_points": 15,
     "races_results": [
       {
         "race_id": "GBR",
@@ -306,6 +316,7 @@
   },
   {
     "driver_id": "perez",
+    "total_points": 81,
     "races_results": [
       {
         "race_id": "GBR",
@@ -338,6 +349,7 @@
   },
   {
     "driver_id": "ricciardo",
+    "total_points": 0,
     "races_results": [
       {
         "race_id": "GBR",
@@ -368,6 +380,7 @@
   },
   {
     "driver_id": "russell",
+    "total_points": 52,
     "races_results": [
       {
         "race_id": "GBR",
@@ -398,6 +411,7 @@
   },
   {
     "driver_id": "sainz",
+    "total_points": 74,
     "races_results": [
       {
         "race_id": "GBR",
@@ -430,6 +444,7 @@
   },
   {
     "driver_id": "schumacher",
+    "total_points": 4,
     "races_results": [
       {
         "race_id": "GBR",
@@ -460,6 +475,7 @@
   },
   {
     "driver_id": "stroll",
+    "total_points": 1,
     "races_results": [
       {
         "race_id": "GBR",
@@ -490,6 +506,7 @@
   },
   {
     "driver_id": "tsunoda",
+    "total_points": 1,
     "races_results": [
       {
         "race_id": "GBR",
@@ -520,6 +537,7 @@
   },
   {
     "driver_id": "verstappen",
+    "total_points": 96,
     "races_results": [
       {
         "race_id": "GBR",
@@ -551,6 +569,7 @@
   },
   {
     "driver_id": "vettel",
+    "total_points": 10,
     "races_results": [
       {
         "race_id": "GBR",
@@ -581,6 +600,7 @@
   },
   {
     "driver_id": "zhou",
+    "total_points": 0,
     "races_results": [
       {
         "race_id": "GBR",
