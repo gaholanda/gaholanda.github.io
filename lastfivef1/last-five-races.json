@@ -1,7 +1,7 @@
 [
   {
     "driver_id": "verstappen",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 7,
@@ -32,7 +32,7 @@
   },
   {
     "driver_id": "perez",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 2,
@@ -64,7 +64,7 @@
   },
   {
     "driver_id": "leclerc",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 4,
@@ -97,7 +97,7 @@
   },
   {
     "driver_id": "sainz",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 1,
@@ -129,7 +129,7 @@
   },
   {
     "driver_id": "russell",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 0,
@@ -159,7 +159,7 @@
   },
   {
     "driver_id": "hamilton",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 3,
@@ -190,7 +190,7 @@
   },
   {
     "driver_id": "norris",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 6,
@@ -221,7 +221,7 @@
   },
   {
     "driver_id": "bottas",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 0,
@@ -251,7 +251,7 @@
   },
   {
     "driver_id": "ocon",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 0,
@@ -281,7 +281,7 @@
   },
   {
     "driver_id": "alonso",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 5,
@@ -311,7 +311,7 @@
   },
   {
     "driver_id": "gasly",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 0,
@@ -341,7 +341,7 @@
   },
   {
     "driver_id": "magnussen",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 10,
@@ -371,7 +371,7 @@
   },
   {
     "driver_id": "vettel",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 9,
@@ -401,7 +401,7 @@
   },
   {
     "driver_id": "ricciardo",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 13,
@@ -431,7 +431,7 @@
   },
   {
     "driver_id": "tsunoda",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 14,
@@ -461,7 +461,7 @@
   },
   {
     "driver_id": "zhou",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 0,
@@ -491,7 +491,7 @@
   },
   {
     "driver_id": "schumacher",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 8,
@@ -521,7 +521,7 @@
   },
   {
     "driver_id": "albon",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 0,
@@ -551,7 +551,7 @@
   },
   {
     "driver_id": "stroll",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 11,
@@ -581,7 +581,7 @@
   },
   {
     "driver_id": "latifi",
-    "race_results": [
+    "races_results": [
       {
         "race_id": "GBR",
         "position": 12,
