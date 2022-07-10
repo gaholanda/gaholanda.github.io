@@ -4,22 +4,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 12
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 13
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 12
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 0
       }
     ]
@@ -29,22 +34,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 10
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 5
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 9
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 7
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 7
       }
     ]
@@ -54,22 +64,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 11
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 7
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 11
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 9
       }
     ]
@@ -79,22 +94,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 15
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 14
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 5
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 11
       }
     ]
@@ -104,24 +124,29 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 3,
         "sprint": 8
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 3,
         "fastest_lap": true
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 3
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 4
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 8
       }
     ]
@@ -131,22 +156,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 12
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 16
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 15
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 15
       }
     ]
@@ -156,24 +186,29 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 1,
         "sprint": 2
       }, 
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 4
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 5
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 0,
         "pole": true
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 4,
         "pole": true
       }
@@ -184,23 +219,28 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 8,
         "sprint": 7
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 10
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 17
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 0
       }
     ]
@@ -210,22 +250,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 7
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 6
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 15
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 9
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 6,
         "fastest_lap": true
       }
@@ -236,23 +281,28 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 5,
         "sprint": 6
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 6
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 10
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 12
       }
     ]
@@ -262,24 +312,29 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 0,
         "sprint": 5
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 2
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 2,
         "fastest_lap": true
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 1
       }
     ]
@@ -289,22 +344,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 9
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 13
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 11
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 8
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 13
       }
     ]
@@ -314,23 +374,28 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 4,
         "sprint": 4
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 4
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 3
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 5
       }
     ]
@@ -340,25 +405,30 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 0,
         "sprint": 3
       }, 
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 1,
         "pole": true
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 2,
         "fastest_lap": true
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 2
       }
     ]
@@ -368,22 +438,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 6
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 8
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 14
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 0
       }
     ]
@@ -393,22 +468,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 13
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 11
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 10
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 16
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 14
       }
     ]
@@ -418,22 +498,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 16
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 14
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 13
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 17
       }
     ]
@@ -443,6 +528,7 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 1,
         "pole": true,
         "fastest_lap": true,
@@ -450,19 +536,23 @@
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 7
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 1,
         "pole": true
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 1
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 3
       }
     ]
@@ -472,22 +562,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 17
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 9
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 12
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 6
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 10
       }
     ]
@@ -497,22 +592,27 @@
     "races_results": [
       {
         "race_id": "AUT",
+        "race_points": "full",
         "position": 14
       },
       {
         "race_id": "GBR",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "CAN",
+        "race_points": "full",
         "position": 8
       },
       {
         "race_id": "AZE",
+        "race_points": "full",
         "position": 0
       },
       {
         "race_id": "MON",
+        "race_points": "full",
         "position": 16
       }
     ]
