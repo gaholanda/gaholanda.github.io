@@ -126,7 +126,7 @@
         "race_id": "AUT",
         "race_points": 15,
         "position": 3,
-        "sprint": 8
+        "sprint_points": 1
       },
       {
         "race_id": "GBR",
@@ -188,7 +188,7 @@
         "race_id": "AUT",
         "race_points": 25,
         "position": 1,
-        "sprint": 2
+        "sprint_points": 7
       }, 
       {
         "race_id": "GBR",
@@ -221,7 +221,7 @@
         "race_id": "AUT",
         "race_points": 4,
         "position": 8,
-        "sprint": 7
+        "sprint_points": 2
       },
       {
         "race_id": "GBR",
@@ -283,7 +283,7 @@
         "race_id": "AUT",
         "race_points": 10,
         "position": 5,
-        "sprint": 6
+        "sprint_points": 3
       },
       {
         "race_id": "GBR",
@@ -314,7 +314,7 @@
         "race_id": "AUT",
         "race_points": 0,
         "position": 0,
-        "sprint": 5
+        "sprint_points": 4
       },
       {
         "race_id": "GBR",
@@ -376,7 +376,7 @@
         "race_id": "AUT",
         "race_points": 12,
         "position": 4,
-        "sprint": 4
+        "sprint_points": 5
       },
       {
         "race_id": "GBR",
@@ -407,7 +407,7 @@
         "race_id": "AUT",
         "race_points": 0,
         "position": 0,
-        "sprint": 3
+        "sprint_points": 6
       }, 
       {
         "race_id": "GBR",
@@ -532,7 +532,7 @@
         "position": 1,
         "pole": true,
         "fastest_lap": true,
-        "sprint": 1
+        "sprint_points": 8
       },
       {
         "race_id": "GBR",
