@@ -3,6 +3,11 @@
     "driver_id": "albon",
     "races_results": [
       {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 13
+      },
+      {
         "race_id": "AUT",
         "race_points": 0,
         "position": 12
@@ -21,17 +26,17 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 12
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 0
       }
     ]
   },
   {
     "driver_id": "alonso",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 8,
+        "position": 6
+      },
       {
         "race_id": "AUT",
         "race_points": 1,
@@ -51,17 +56,17 @@
         "race_id": "AZE",
         "race_points": 6,
         "position": 7
-      },
-      {
-        "race_id": "MON",
-        "race_points": 6,
-        "position": 7
       }
     ]
   },
   {
     "driver_id": "bottas",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 14
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -81,17 +86,17 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 11
-      },
-      {
-        "race_id": "MON",
-        "race_points": 2,
-        "position": 9
       }
     ]
   },
   {
     "driver_id": "gasly",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 12
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -111,17 +116,17 @@
         "race_id": "AZE",
         "race_points": 10,
         "position": 5
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 11
       }
     ]
   },
   {
     "driver_id": "hamilton",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 18,
+        "position": 2
+      },
       {
         "race_id": "AUT",
         "race_points": 15,
@@ -143,17 +148,17 @@
         "race_id": "AZE",
         "race_points": 12,
         "position": 4
-      },
-      {
-        "race_id": "MON",
-        "race_points": 4,
-        "position": 8
       }
     ]
   },
   {
     "driver_id": "latifi",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 0
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -173,17 +178,18 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 15
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 15
       }
     ]
   },
   {
     "driver_id": "leclerc",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 0,
+        "pole": true
+      },
       {
         "race_id": "AUT",
         "race_points": 25,
@@ -205,18 +211,17 @@
         "race_points": 0,
         "position": 0,
         "pole": true
-      },
-      {
-        "race_id": "MON",
-        "race_points": 12,
-        "position": 4,
-        "pole": true
       }
     ]
   },
   {
     "driver_id": "magnussen",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 0
+      },
       {
         "race_id": "AUT",
         "race_points": 4,
@@ -237,17 +242,17 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 0
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 0
       }
     ]
   },
   {
     "driver_id": "norris",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 6,
+        "position": 7
+      },
       {
         "race_id": "AUT",
         "race_points": 6,
@@ -267,18 +272,17 @@
         "race_id": "AZE",
         "race_points": 2,
         "position": 9
-      },
-      {
-        "race_id": "MON",
-        "race_points": 8,
-        "position": 6,
-        "fastest_lap": true
       }
     ]
   },
   {
     "driver_id": "ocon",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 4,
+        "position": 8
+      },
       {
         "race_id": "AUT",
         "race_points": 10,
@@ -299,17 +303,17 @@
         "race_id": "AZE",
         "race_points": 1,
         "position": 10
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 12
       }
     ]
   },
   {
     "driver_id": "perez",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 12,
+        "position": 4
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -331,17 +335,17 @@
         "race_points": 18,
         "position": 2,
         "fastest_lap": true
-      },
-      {
-        "race_id": "MON",
-        "race_points": 25,
-        "position": 1
       }
     ]
   },
   {
     "driver_id": "ricciardo",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 2,
+        "position": 9
+      },
       {
         "race_id": "AUT",
         "race_points": 2,
@@ -361,17 +365,17 @@
         "race_id": "AZE",
         "race_points": 4,
         "position": 8
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 13
       }
     ]
   },
   {
     "driver_id": "russell",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 15,
+        "position": 3
+      },
       {
         "race_id": "AUT",
         "race_points": 12,
@@ -392,17 +396,18 @@
         "race_id": "AZE",
         "race_points": 15,
         "position": 3
-      },
-      {
-        "race_id": "MON",
-        "race_points": 10,
-        "position": 5
       }
     ]
   },
   {
     "driver_id": "sainz",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 10,
+        "position": 5,
+        "fastest_lap": true
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -425,17 +430,17 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 0
-      },
-      {
-        "race_id": "MON",
-        "race_points": 18,
-        "position": 2
       }
     ]
   },
   {
     "driver_id": "schumacher",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 15
+      },
       {
         "race_id": "AUT",
         "race_points": 8,
@@ -455,17 +460,17 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 14
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 0
       }
     ]
   },
   {
     "driver_id": "stroll",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 1,
+        "position": 10
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -485,17 +490,17 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 16
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 14
       }
     ]
   },
   {
     "driver_id": "tsunoda",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 0
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -515,17 +520,17 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 13
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 17
       }
     ]
   },
   {
     "driver_id": "verstappen",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 25,
+        "position": 1
+      },
       {
         "race_id": "AUT",
         "race_points": 25,
@@ -549,17 +554,17 @@
         "race_id": "AZE",
         "race_points": 25,
         "position": 1
-      },
-      {
-        "race_id": "MON",
-        "race_points": 15,
-        "position": 3
       }
     ]
   },
   {
     "driver_id": "vettel",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 11
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -579,17 +584,17 @@
         "race_id": "AZE",
         "race_points": 8,
         "position": 6
-      },
-      {
-        "race_id": "MON",
-        "race_points": 1,
-        "position": 10
       }
     ]
   },
   {
     "driver_id": "zhou",
     "races_results": [
+      {
+        "race_id": "FRA",
+        "race_points": 0,
+        "position": 16
+      },
       {
         "race_id": "AUT",
         "race_points": 0,
@@ -609,11 +614,6 @@
         "race_id": "AZE",
         "race_points": 0,
         "position": 0
-      },
-      {
-        "race_id": "MON",
-        "race_points": 0,
-        "position": 16
       }
     ]
   }
