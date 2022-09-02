@@ -2,27 +2,27 @@
   "drivers": [
     {
       "driver_id": "albon",
-      "points": 3,
+      "points": 4,
       "wins": 0,
-      "position": 19
+      "position": 18
     },
     {
       "driver_id": "alonso",
-      "points": 41,
+      "points": 51,
       "wins": 0,
-      "position": 10
+      "position": 8
     },
     {
       "driver_id": "bottas",
       "points": 46,
       "wins": 0,
-      "position": 9
+      "position": 10
     },
     {
       "driver_id": "gasly",
-      "points": 16,
+      "points": 18,
       "wins": 0,
-      "position": 13
+      "position": 14
     },
     {
       "driver_id": "hamilton",
@@ -38,9 +38,9 @@
     },
     {
       "driver_id": "leclerc",
-      "points": 178,
+      "points": 186,
       "wins": 3,
-      "position": 2
+      "position": 3
     },
     {
       "driver_id": "magnussen",
@@ -56,39 +56,45 @@
     },
     {
       "driver_id": "ocon",
-      "points": 58,
+      "points": 64,
       "wins": 0,
       "position": 8
     },
     {
       "driver_id": "perez",
-      "points": 173,
+      "points": 191,
       "wins": 1,
-      "position": 3
+      "position": 2
     },
     {
       "driver_id": "ricciardo",
       "points": 19,
       "wins": 0,
-      "position": 12
+      "position": 13
     },
     {
       "driver_id": "russell",
-      "points": 158,
+      "points": 170,
       "wins": 0,
-      "position": 4
+      "position": 5
     },
     {
       "driver_id": "sainz",
-      "points": 156,
+      "points": 171,
       "wins": 1,
-      "position": 5
+      "position": 4
+    },
+    {
+      "driver_id": "schumacher",
+      "points": 12,
+      "wins": 0,
+      "position": 15
     },
     {
       "driver_id": "stroll",
       "points": 4,
       "wins": 0,
-      "position": 18
+      "position": 19
     },
     {
       "driver_id": "tsunoda",
@@ -98,15 +104,15 @@
     },
     {
       "driver_id": "verstappen",
-      "points": 258,
-      "wins": 8,
+      "points": 284,
+      "wins": 9,
       "position": 1
     },
     {
       "driver_id": "vettel",
-      "points": 16,
+      "points": 20,
       "wins": 0,
-      "position": 14
+      "position": 12
     },
     {
       "driver_id": "zhou",
@@ -124,25 +130,25 @@
     },
     {
       "team_id": "alphatauri",
-      "points": 27,
+      "points": 29,
       "wins": 0,
       "position": 8
     },
     {
       "team_id": "alpine",
-      "points": 99,
+      "points": 115,
       "wins": 0,
       "position": 4
     },
     {
       "team_id": "astonmartin",
-      "points": 20,
+      "points": 24,
       "wins": 0,
       "position": 9
     },
     {
       "team_id": "ferrari",
-      "points": 334,
+      "points": 357,
       "wins": 4,
       "position": 2
     },
@@ -160,19 +166,19 @@
     },
     {
       "team_id": "mercedes",
-      "points": 304,
+      "points": 316,
       "wins": 0,
       "position": 3
     },
     {
       "team_id": "redbull",
-      "points": 431,
-      "wins": 9,
+      "points": 475,
+      "wins": 10,
       "position": 1
     },
     {
       "team_id": "williams",
-      "points": 3,
+      "points": 4,
       "wins": 0,
       "position": 10
     }
