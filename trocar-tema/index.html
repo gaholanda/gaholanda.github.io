@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Theme Switcher</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <article>
+      <h1>CSS Theme Switcher</h1>
+      <p>A theme switcher created only with CSS witch a callback to browsers that doesn't have support to <code>:has</code> CSS selector.</p>
+    </article>
+
+    <article>
+      <h1>Setando um tema</h1>
+      <p>Um seletor de tema feito só com CSS, com um javascript para os navegador que não possuem suporte a propriedade <code>:has</code> do CSS.</p>
+    </article>
+
+    <ul class="theme-switcher">
+      <li><input name="theme" id="dark" type="radio"></li>
+      <li><input name="theme" id="light" type="radio" checked></li>
+      <li><input name="theme" id="blue" type="radio"></li>
+      <li><input name="theme" id="green" type="radio"></li>
+    </ul>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+
+</html>

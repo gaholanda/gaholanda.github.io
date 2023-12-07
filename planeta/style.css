@@ -1,0 +1,131 @@
+html {
+  font-size: 12px;
+}
+
+body {
+  background-image: url(./universe.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  font-size: 1rem;
+  overflow: hidden;
+}
+
+.planet {
+  width: 30rem;
+  height: 30rem;
+  background-image: url(./planet.png);
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  box-shadow: 
+    0 0 5rem 0 #FFFFFF80,
+    0 0 20rem 4rem #E8A55233,
+    0 0 55rem 8rem #FF4D4D1A;
+  position: relative;
+}
+
+.moon, .moon::after {
+  content: "";
+  position: absolute;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+}
+
+.moon {
+  width: 5rem;
+  height: 5rem;
+  background-image: url(./moon.jpg);
+  background-position: center;
+  background-size: cover;
+  box-shadow: -2rem 0 5rem -1rem #FFFFFF;
+  overflow: hidden;
+  transition: 250ms;
+  left: 32rem;
+  transform: rotate(20deg);
+  animation: round 5s infinite ease-in-out;
+  border-radius: 50%;
+}
+
+.moon::after {
+  background-color: #262938;
+  content: "";
+  position: absolute;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  box-shadow: 0 0 0.75rem 0.95rem #262938;
+  animation: shadow 5s infinite ease-in-out;
+}
+
+@keyframes shadow {
+  0% {
+    width: 2.5rem;
+    left: 0;
+  }
+
+  25% {
+    width: 5rem;
+    left: 0;
+  }
+
+  50% {
+    width: 2.5rem;
+    left: 2.5rem;
+  }
+
+  75% {
+    width: 0;
+    left: 5rem;
+  }
+
+  80% {
+    left: 0;
+    box-shadow: 0 0 0.55rem 0.75rem #262938;
+  }
+
+  100% {
+    width: 2.5rem;
+    left: 0;
+  }
+}
+
+@keyframes round {
+  0%, 100% {
+    top: 2rem;
+    left: -15rem;
+    box-shadow: -2rem 0 5rem 0.5rem #C6836466;
+    z-index: 2;
+  }
+
+  25% {
+    box-shadow: 0 0 3rem 1rem #412104B5;
+  }
+
+  75% {
+    box-shadow: 0 0 3rem 1rem #000000;
+  }
+
+  48% {
+    z-index: 2;
+  }
+
+  50% {
+    left: 40rem;
+    top: 20rem;
+    z-index: -1;
+    box-shadow: 2rem 0 5rem 0.5rem #845A4682;
+  }
+
+  99% {
+    z-index: -1;
+  }
+
+
+}
